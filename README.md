@@ -1,4 +1,4 @@
-Pequeno projeto de estudo da API do NextJS. Não serve como app em produção.
+Pequeno projeto de estudo da API do NextJS. Não serve para produção.
 
 ## Getting Started
 
